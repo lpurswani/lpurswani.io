@@ -1,0 +1,22 @@
+.navbar {
+ height: 100px;
+}
+
+.navbar-brand {
+   display: inline-block;
+   margin-right: 1rem;
+   font-size: 2.0rem;
+}
+
+.jumbotron, .pls{
+   background-image: url("https://images.unsplash.com/photo-1513838747056-b69972e5f504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1528&q=80");
+   padding: 22rem 1rem !important;
+}
+
+.header1{
+   font-size:6rem;
+   color:black;
+   font-family: 'Amatic SC', cursive;
+   font-weight:600;
+   padding: 6rem 3rem ;
+}

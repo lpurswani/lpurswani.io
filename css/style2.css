@@ -1,0 +1,114 @@
+.jumbo-bg{
+  background-image: url(https://data.whicdn.com/images/313563608/large.jpg);
+}
+
+/* CSS for My Portfolio */
+
+body {
+    color: #FFFFFF;
+    background-color: #272B30;
+    font-family: 'Raleway', sans-serif;
+}
+
+h5 .bio-title{
+    font-size: 2.5rem !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.parallax-title-container {
+  position: relative;
+  overflow: ;
+  height: 800px;
+}
+
+.parallax-container {
+  height: 400px;
+}
+
+.rounded-img {
+  border:1px solid #;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+
+.text-shadow {
+  text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+.link {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.bullets {
+  list-style-type: disc;
+}
+
+.center-btn {
+  text-align: center;
+}
+
+nav, footer {
+  background-color: yellow;
+  opacity: 0.75;
+}
+
+ul#footer-nav li {
+    display:inline;
+    margin: 0px 20px;
+}
+
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
+
+.eight-bit-font {
+  font-family: "Press Start 2P";
+}
+
+.friends-font {
+    font-family: "Shadows Into Light";
+}
+
+.iceland-font {
+  font-family:  "Iceland";
+}
+
+.josefin-sans {
+  font-family: "Josefin Sans";
+}
+
+.roboto {
+  font-family: "Roboto";
+}
+
+.inline {
+    display: inline;
+}
+
+#add-form {
+  display: inline;
+}
+
+.done-false {
+  font-size: 1.0rem;
+  color: #000000;
+}
+
+.done-true {
+  font-size: 1.0rem;
+  text-decoration: line-through;
+  color: gray;
+
+.parallax img {
+  display: block !important;
+}
+
+.brand-logo, nav{
+  font-size: 4.0rem;
+}
